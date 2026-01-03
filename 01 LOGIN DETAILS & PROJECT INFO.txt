@@ -1,0 +1,16 @@
+
+
+
+**Admin Login Details**
+
+Email	: admin@mail.com
+Password: 123456
+
+**Cashier Login Details**
+
+Email	: elite@mail.com
+Password: elite.com
+
+**customer**
+email   : elton@gmail.com
+password: 123456
